@@ -7,6 +7,6 @@ void main() {
 	a = 123.45;
 	b = 200;
 
-	printf("aÀÇ °ª ==> %d \n", a);
-	printf("bÀÇ °ª ==> %f \n", b);
+	printf("aÃ€Ã‡ Â°Âª ==> %d \n", a);
+	printf("bÃ€Ã‡ Â°Âª ==> %f \n", b);
 }

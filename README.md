@@ -6,7 +6,7 @@
   <li><a href="https://github.com/yehun980217/Study/tree/main/Java/Scanner"><code>스캐너</code></a></li>
   <li><a href="https://github.com/yehun980217/Study/tree/main/Java/For"><code>For문</code></a></li>
   <li><a href="https://github.com/yehun980217/Study/tree/main/Java/If"><code>If문</code></a></li>
-  <li><a href="https://github.com/yehun980217/Study/tree/main/Java/Array"><code>배열</code></a></li>
+  <li><a href="https://github.com/yehun980217/Study/tree/main/Java/배열"><code>배열</code></a></li>
 </ul>
 <h3>C</h3>
 <ul>

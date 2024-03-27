@@ -10,7 +10,7 @@ void main() {
 	c = 111.1f;
 	d = c;
 
-	printf("a, bÀÇ °ª ==> %d , %d \n", a, b);
-	printf("c, dÀÇ °ª ==> %5.1f , %5.1f", c, d);
+	printf("a, bÃ€Ã‡ Â°Âª ==> %d , %d \n", a, b);
+	printf("c, dÃ€Ã‡ Â°Âª ==> %5.1f , %5.1f", c, d);
 }
 

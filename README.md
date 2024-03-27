@@ -12,7 +12,7 @@
 <ul>
   <li><a href="https://github.com/yehun980217/Study/tree/main/C/Printf%26Scanf"><code>출력과 입력</code></a></li>
   <li><a href="https://github.com/yehun980217/Study/tree/main/C/Printf()Function"><code>printf() 함수</code></a></li>
-  <li><a href="https://github.com/yehun980217/Study/tree/main/C/Variable"><code>변수</code></a></li>
+  <li><a href="https://github.com/yehun980217/Study/tree/main/C/변수"><code>변수</code></a></li>
   <li><a href="https://github.com/yehun980217/Study/tree/main/C/DataType&Array"><code>데이터 형식과 배열</code>
   </a></li>
   <li><a href="https://github.com/yehun980217/Study/tree/main/C/연산자"><code>연산자</code></a></li>
